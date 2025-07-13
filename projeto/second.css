@@ -1,0 +1,18 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #D9C6A3;
+}
+
+.container{
+background-color: aliceblue;
+max-width: 1100px;
+position: relative;
+margin: 50px auto;
+padding: 20px 50px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+}

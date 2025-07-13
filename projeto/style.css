@@ -67,3 +67,12 @@ html{
 .listbook-container li{
     line-height: 25px;
 }
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: crimson;
+}
+.books-container{
+    text-align: center;
+}
